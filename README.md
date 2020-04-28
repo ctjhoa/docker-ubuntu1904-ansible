@@ -1,5 +1,7 @@
 # Ubuntu 19.04 (Disco) Ansible Test Image
 
+[![Build Status](https://travis-ci.org/ctjhoa/docker-ubuntu1904-ansible.svg?branch=master)](https://travis-ci.com/ctjhoa/docker-ubuntu1904-ansible) [![Docker Automated build](https://img.shields.io/docker/automated/ctjhoa/docker-ubuntu1904-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/ctjhoa/docker-ubuntu1904-ansible/)
+
 Ubuntu 19.04 (Disco) Docker container for Ansible playbook and role testing.
 It comes with an `ansible` user with sudo privileged.
 
